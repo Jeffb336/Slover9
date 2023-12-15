@@ -224,6 +224,6 @@ public class AADP_Lab_SoccerSimulator {
                 System.out.println("That is not a number. Please try again!");
             }         
         } while (!exit);   
-        //Test Jeff
+       
     }     
 }
